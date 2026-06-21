@@ -122,7 +122,7 @@ function showWelcome() {
       <div class="welcome-sub">${esc(L === 'bn' ? cfg.subtitle_bn : cfg.subtitle_en)}</div>
       <div class="welcome-rule"></div>
       <div class="welcome-voices">
-        <div class="voices-label">${L === 'bn' ? 'চার কণ্ঠ' : 'Four Voices'}</div>
+        <div class="voices-label">${L === 'bn' ? 'Fractured Cynicism' : 'Fractured Cynicism'}</div>
         ${voices}
       </div>
       <button class="begin-btn" onclick="loadChapter(0)">
