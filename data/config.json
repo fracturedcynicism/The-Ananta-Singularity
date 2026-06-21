@@ -1,0 +1,70 @@
+{
+  "title_en": "The Collective",
+  "title_bn": "সমষ্টি",
+  "subtitle_en": "Multiple authors, one destiny: A collaborative journey through memory, guilt, and the price of redemption.",
+  "subtitle_bn": "একাধিক কলম, একটিই নিয়তি: স্মৃতি, অপরাধবোধ এবং মুক্তির মূল্য খোঁজার এক যৌথ আখ্যান।",
+  "publisher": "Bongo Buddies Golper Jhuli",
+  "year": "2026",
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "title_en": "Chapter I",
+      "title_bn": "অধ্যায় ১",
+      "file_en": "books/en/chapter-1.txt",
+      "file_bn": "books/bn/chapter-1.txt",
+      "author_en": "Ishaan",
+      "author_bn": "ইশান",
+      "author_role_en": "Opening Voice",
+      "author_role_bn": "প্রথম কণ্ঠ",
+      "accent": "#4a4a4a"
+    },
+    {
+      "id": "chapter-2",
+      "title_en": "Chapter II",
+      "title_bn": "অধ্যায় ২",
+      "file_en": "books/en/chapter-2.txt",
+      "file_bn": "books/bn/chapter-2.txt",
+      "author_en": "Soumyadeep",
+      "author_bn": "সৌম্যদীপ",
+      "author_role_en": "Second Voice",
+      "author_role_bn": "দ্বিতীয় কণ্ঠ",
+      "accent": "#4a4a4a"
+    },
+    {
+      "id": "chapter-3",
+      "title_en": "Chapter III",
+      "title_bn": "অধ্যায় ৩",
+      "file_en": "books/en/chapter-3.txt",
+      "file_bn": "books/bn/chapter-3.txt",
+      "author_en": "Ditsha",
+      "author_bn": "দিক্ষা",
+      "author_role_en": "Third Voice",
+      "author_role_bn": "তৃতীয় কণ্ঠ",
+      "accent": "#4a4a4a"
+    },
+    {
+      "id": "chapter-4",
+      "title_en": "Chapter IV",
+      "title_bn": "অধ্যায় ৪",
+      "file_en": "books/en/chapter-4.txt",
+      "file_bn": "books/bn/chapter-4.txt",
+      "author_en": "Jit",
+      "author_bn": "জিত",
+      "author_role_en": "Forth Voice",
+      "author_role_bn": "চতুর্থ কণ্ঠ",
+      "accent": "#4a4a4a"
+    },
+    {
+      "id": "chapter-5",
+      "title_en": "Chapter V",
+      "title_bn": "অধ্যায় ৪",
+      "file_en": "books/en/chapter-5.txt",
+      "file_bn": "books/bn/chapter-5.txt",
+      "author_en": "Fractured Cynicism",
+      "author_bn": "ফ্র্যাকচার্ড সিনিসিজম",
+      "author_role_en": "Fifth Voice",
+      "author_role_bn": "চতুর্থ কণ্ঠ",
+      "accent": "#4a4a4a"
+    }
+  ]
+}
